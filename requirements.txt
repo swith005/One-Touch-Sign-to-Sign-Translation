@@ -1,0 +1,5 @@
+python-dotenv
+requests
+Flask
+azure-cognitiveservices-speech==1.30.0
+jsonlines
